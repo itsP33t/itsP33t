@@ -1,11 +1,10 @@
 # 💫About Me :
-# P33t
+
 ## Frontend and app developer.
 
-## My skills:
-📒Learning: next.js, tailwind.css
-🐣 Beginner: JavaScript, Express.js, Html, css
-🦾 Pro: Bootstrap (Bootstrap Studio)
+## Projects:
+[reURL.eu](https://reurl.eu "reURL.eu")
+[zenet.host](https://zenet.host "zenet.host")
 
 ## Contact
 Discord: P33t#9999
