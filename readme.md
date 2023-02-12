@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [reURL.eu AntiScam Filter](https://reurl.eu)
 
-- 🌱 I’m currently learning **React with Mantine Framework**
+- 🌱 I’m currently learning Rust Language
 
 - 👨‍💻 My personal website [https://p33t.net](https://p33t.net)
 
