@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter, aka P33t</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [reURL.eu AntiScam Filter](https://reurl.eu)
+- 🔭 I’m currently working on [Verse Scripts](https://verseScripts.net)
 
 - 🌱 I’m currently learning **Rust Language**
 
