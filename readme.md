@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Verse Scripts](https://verseScripts.net)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Tailwind css*
 
 - 👨‍💻 My personal website [https://p33t.net](https://p33t.net)
 
