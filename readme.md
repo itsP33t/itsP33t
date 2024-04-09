@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal website [https://p33t.net](https://p33t.net)
 
-- 📫 How to reach me **p33tdev@pm.me** or **@P33t** (Discord)
+- 📫 How to reach me **p33t@p33t.net** or **@P33t** (Discord)
 
 - ⚡ Fun fact: **I started programming when i was 13. I wanted to create some application so i can change my Discord status. After creating it, I started making more and more**
 
